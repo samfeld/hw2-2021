@@ -57,7 +57,7 @@ img{
     border: 10px dashed #fff;
 }
 div{
-    height: 100px; 
+    min-height: 100px; 
     padding: 20px important!;
     border: 3px important!;
 }

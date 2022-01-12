@@ -79,10 +79,10 @@ div{
     border-right: 3px;
     border-bottom: 3px;
 }
-#yellow p, h1{
+#yellow p, h2{
     color: #000;
 }
-#yellow h1{
+#yellow h2{
     text-shadow: 2px 4px #c7e2c7;
 }
 #yellow{

@@ -79,7 +79,7 @@ div{
     border-right: 3px;
     border-bottom: 3px;
 }
-#yellow{
+.yellow{
     background-color: #ff9;
     text-align: right;
     margin-left: 50px;

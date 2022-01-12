@@ -86,10 +86,10 @@ div{
     border-bottom: 3px;
     border-left: 10px;
 }
-#yellow p, h1{
+.yellow p, h1{
     color: #000;
 }
-#yellow h1{
+.yellow h1{
     text-shadow: 2px 4px #c7e2c7;
 }
 #green{

@@ -42,11 +42,6 @@ div{
     border: 3px solid #fff;
 }
 
-span#red{
-    text-decoration: underline;
-    text-transform: uppercase;
-    text-shadow: 0px;
-}
 #red{
     background-color: #f00;
     text-align: right;

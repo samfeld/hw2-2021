@@ -33,6 +33,11 @@ img{
     border-radius: 15px;
     margin-top: 15px;
 }
+span#red{
+    text-decoration: underline;
+    text-transform: uppercase;
+    text-shadow: 0px;
+}
 #red{
     background-color: #f00;
     text-align: right;
@@ -75,11 +80,7 @@ span{
     text-transform: uppercase;
     text-shadow: 0px;
 }
-span#red{
-    text-decoration: underline;
-    text-transform: uppercase;
-    text-shadow: 0px;
-}
+
 div{
     min-height: 100px; 
     overflow: hidden;
@@ -95,5 +96,5 @@ footer p{
     text-align: center;
 }
 footer{
-    background: linear-gradient(to right,#000 0%, #00f 25%, #06f 70%, #000 100%)
+    background: linear-gradient(right,#000 0%, #00f 25%, #06f 70%, #000 100%)
 }

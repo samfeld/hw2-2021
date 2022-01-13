@@ -27,6 +27,12 @@ img{
     text-align: center;
     border: 10px dashed #fff;
 }
+div #red, #yellow, #blue, #green{
+    min-height: 100px; 
+    overflow: hidden;
+    padding: 20px;
+    border: 3px important!;
+}
 
 #intro{
     border: 15px;
@@ -81,12 +87,7 @@ span{
     text-shadow: 0px;
 }
 
-div{
-    min-height: 100px; 
-    overflow: hidden;
-    padding: 20px important!;
-    border: 3px important!;
-}
+
 
 footer p{
     padding-top: 10px;

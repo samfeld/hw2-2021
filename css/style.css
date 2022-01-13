@@ -27,12 +27,7 @@ img{
     text-align: center;
     border: 10px dashed #fff;
 }
-div{
-    min-height: 100px; 
-    overflow: hidden;
-    padding: 20px important!;
-    border: 3px important!;
-}
+
 #intro{
     border: 15px;
     border-radius: 15px;
@@ -84,6 +79,12 @@ div#red{
     text-decoration: underline;
     text-transform: uppercase;
     text-shadow: 0px;
+}
+div{
+    min-height: 100px; 
+    overflow: hidden;
+    padding: 20px important!;
+    border: 3px important!;
 }
 
 footer p{

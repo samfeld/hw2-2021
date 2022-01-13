@@ -84,7 +84,7 @@ span#red{
     border-right: 10px;
     border-bottom: 3px;
 }
-span{
+span#red{
     text-decoration: underline;
     text-transform: uppercase;
     text-shadow: 0px;

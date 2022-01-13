@@ -10,6 +10,11 @@ div{
     padding: 20px;
     border: 3px solid #fff;
 }
+span{
+    text-decoration: underline;
+    text-transform: uppercase;
+    text-shadow: 0px;
+}
 #intro{
     border-radius: 15px solid #fff;
     margin-top: 15px;
@@ -38,11 +43,6 @@ p{
     font-size: 24px;
     padding-left: 15px important!; 
     padding-bottom: 15px important!;
-}
-span#red{
-    text-decoration: underline;
-    text-transform: uppercase;
-    text-shadow: 0px;
 }
 
 #red{

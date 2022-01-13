@@ -6,7 +6,7 @@ img{
 }
 #intro{
     border: 15px white;
-    border-radius: 15px;
+    border-radius: 15px white;
     margin-top: 15px;
 }
 body {
@@ -39,7 +39,7 @@ div #red, #yellow, #blue, #green{
     min-height: 100px; 
     overflow: hidden;
     padding: 20px;
-    border: 3px;
+    border: 3px white;
 }
 
 span#red{

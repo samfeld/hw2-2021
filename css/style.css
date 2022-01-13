@@ -13,6 +13,11 @@ body {
     margin-right:25px;
     margin-left:25px;
 }
+#intro{
+    border: 15px;
+    border-radius: 15px;
+    margin-top: 15px;
+}
 h1{
     font-size: 48px;
     text-align: center;
@@ -36,11 +41,6 @@ div #red, #yellow, #blue, #green{
     border: 3px;
 }
 
-#intro{
-    border: 15px;
-    border-radius: 15px;
-    margin-top: 15px;
-}
 span#red{
     text-decoration: underline;
     text-transform: uppercase;

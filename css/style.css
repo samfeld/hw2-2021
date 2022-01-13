@@ -33,7 +33,7 @@ img{
     border-radius: 15px;
     margin-top: 15px;
 }
-body #red{
+#red{
     background-color: #f00;
     text-align: right;
     margin-left: 50px;

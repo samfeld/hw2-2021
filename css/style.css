@@ -16,7 +16,7 @@ div#red{
     text-shadow: 0px;
 }
 #intro{
-    border-radius: 15px solid #fff;
+    border-radius: 15px solid #fff important!;
     margin-top: 15px;
 }
 body {

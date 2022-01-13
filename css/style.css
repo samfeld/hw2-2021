@@ -34,6 +34,7 @@ div{
     border: 3px important!;
 }
 #intro{
+    border: 15px;
     border-radius: 15px;
     margin-top: 15px;
 }
@@ -88,5 +89,5 @@ footer p{
     text-align: center;
 }
 footer{
-    background-image: linear-gradient(to right #000, #00f 25%, #06f 70%, #000 100%)
+    background: linear-gradient(#000 0%, #00f 25%, #06f 70%, #000 100%)
 }

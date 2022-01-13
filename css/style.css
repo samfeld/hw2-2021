@@ -35,7 +35,7 @@ p{
     padding-bottom: 15px important!;
 }
 
-div #red, #yellow, #blue, #green{
+div{
     min-height: 100px; 
     overflow: hidden;
     padding: 20px;

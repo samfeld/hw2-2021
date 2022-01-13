@@ -95,5 +95,6 @@ footer p{
     text-align: center;
 }
 footer{
-    background: linear-gradient(#000 0%, #00f 25%, #06f 70%, #000 100%)
+    background: linear-gradient(90deg, #000 0%, #00f 25%, #06f 70%, #000 100%);
+    
 }
